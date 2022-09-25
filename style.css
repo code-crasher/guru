@@ -23,6 +23,7 @@ ul,li{
 }
 body{
     background-color: var(--primary-dark);
+    font-family: 'kumbh sans',sans-serif;
     font-size:inherit;
     height:100vh;
     width:100vw;
